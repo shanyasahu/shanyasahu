@@ -10,32 +10,32 @@ Passionate about creating seamless user experiences and writing maintainable cod
 ---
 
 ## 🚀 Tech Stack
-
-**Frontend**
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
-- Vercel
+Frontend: React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
+Backend: Node.js • Express.js
+Database: MongoDB, Firebase, PostgreSQL 
+Tools: Git • GitHub • VS Code • Postman • Vercel
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🏫 Eskoolnize – School Management System (Full-Stack)
+
+A web-based platform to digitally organize and manage school operations.
+
+**Key Features**
+- Role-based authentication (Admin / Staff)
+- Secure APIs with JWT
+- Scalable backend architecture
+- Modern, responsive frontend UI
+
+**Tech Stack:**  
+Next.js • React • TypeScript • Tailwind CSS • Node.js • Express.js • Prisma • MongoDB • JWT
+
+🔗 Client: https://github.com/shanyasahu/eskoolnize-client  
+🔗 Server: https://github.com/shanyasahu/eskoolnize-server
+
+---
 
 ### 🟢 Konvo (Full-Stack Chat Application)
 - Real-time communication
@@ -44,17 +44,7 @@ Passionate about creating seamless user experiences and writing maintainable cod
 - Clean and responsive UI
 
 🔗 Client: https://github.com/shanyasahu/konvo-client  
-🔗 Server: https://github.com/shanyasahu/konvo-server  
-
----
-
-### 🛒 E-Commerce Full Stack App
-- Product listing & filtering
-- Cart functionality
-- Backend API integration
-- Authentication
-
-🔗 Repository: https://github.com/shanyasahu/e-commerce-fullstack  
+🔗 Server: https://github.com/shanyasahu/konvo-server    
 
 ---
 
