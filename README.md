@@ -1,11 +1,78 @@
-Experienced web developer dedicated to mastering full-stack development. Currently advancing skills in Next.js to create exceptional, high-performance web applications. Possess 3+ years of hands-on experience in web development, driven by a passion for delivering seamless user experiences.
+# Hi, I'm Shanya Sahu 👋
 
-- You can contact me 📧 shanyasahu11@gmail.com
-- my LinkedIn id:- https://www.linkedin.com/in/shanya-sahu-web-developer/
-- You can know me better at:- https://shanya-portfolio.vercel.app/
+### Frontend Developer | React • Next.js • TypeScript
 
+I build clean, scalable and performance-focused web applications.  
+Passionate about creating seamless user experiences and writing maintainable code.
 
-<!---
-Shanya-Sahu/Shanya-Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔎 Currently open to Frontend / Junior Full-Stack Developer roles.
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Postman
+- Vercel
+
+---
+
+## 🌟 Featured Projects
+
+### 🟢 Konvo (Full-Stack Chat Application)
+- Real-time communication
+- Authentication system
+- REST APIs
+- Clean and responsive UI
+
+🔗 Client: https://github.com/shanyasahu/konvo-client  
+🔗 Server: https://github.com/shanyasahu/konvo-server  
+
+---
+
+### 🛒 E-Commerce Full Stack App
+- Product listing & filtering
+- Cart functionality
+- Backend API integration
+- Authentication
+
+🔗 Repository: https://github.com/shanyasahu/e-commerce-fullstack  
+
+---
+
+## 📈 What I Focus On
+
+✔ Writing clean & readable code  
+✔ Component reusability  
+✔ API integration & error handling  
+✔ Responsive & performance-optimized UI  
+✔ Learning scalable architecture  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://shanya-portfolio.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/shanyasahu
+
+---
+
+⭐ If you like my work, feel free to explore my repositories!
