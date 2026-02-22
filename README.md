@@ -10,10 +10,11 @@ Passionate about creating seamless user experiences and writing maintainable cod
 ---
 
 ## 🚀 Tech Stack
-Frontend: React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
-Backend: Node.js • Express.js
-Database: MongoDB, Firebase, PostgreSQL 
-Tools: Git • GitHub • VS Code • Postman • Vercel
+
+**Frontend:** React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB • Firebase • PostgreSQL  
+**Tools:** Git • GitHub • VS Code • Postman • Vercel  
 
 ---
 
@@ -37,7 +38,7 @@ Next.js • React • TypeScript • Tailwind CSS • Node.js • Express.js •
 
 ---
 
-### 🟢 Konvo (Full-Stack Chat Application)
+### 📱 Konvo (Full-Stack Chat Application)
 - Real-time communication
 - Authentication system
 - REST APIs
